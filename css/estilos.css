@@ -16,7 +16,7 @@ body {
     background-color: skyblue;
     border: 2px solid red;
     padding: 20px; 
-    border: 2px white;
+    border: 10px solid white;
 }
 
 .red {
@@ -26,6 +26,6 @@ body {
 
 .gray {
     background-color: red;
-    margin-bottom: -100px;
+    margin-left: -330px;
 }
 
